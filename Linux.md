@@ -24,18 +24,8 @@
  - I：在当前行首插入
  - a：在当前字符的右边插入
  - A：在当前行尾插入
- **安装MySQL**  
-  `sudo apt-get update` 更新源  
-  `sudo apt-get install mysql-client` mysql-server 安装  
-  `sudo /etc/init.d/mysqld start` 启动mysql服务  
-  
-  **Apache安装**  
-  `sudo apt-get update`  
-  `sudo apt-get install tasksel`  
-  `sudo tasksel`
+ - o：在当前行下面插入一个新行
+ - O：在当前行上面插入一个新行
+ - h: 向前移动一个字符
+ - ............
 
-  **创建所需数据库**  
-  `create database `<数据库名>  
-  
-   **使用数据库**    
-  `use` <数据库名> 
