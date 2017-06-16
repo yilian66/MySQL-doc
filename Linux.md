@@ -1,4 +1,4 @@
-* liunx *  
+#Liunx   
 
  **Linux虚拟机创建**  
  一个典型的Linux操作系统组成为：Linux内核，一些GNU程序库和工具,命令行shell，图形界面的X Window系统和相应的桌面环境，
