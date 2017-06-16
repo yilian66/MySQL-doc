@@ -10,8 +10,8 @@
   `sudo apt-get install mysql-client` mysql-server 安装  
   `sudo /etc/init.d/mysqld start` 启动mysql服务  
   **Apache安装**  
-  `sudo apt-get update`
-  `sudo apt-get install tasksel`
+  `sudo apt-get update`  
+  `sudo apt-get install tasksel`  
   `sudo tasksel`
   **创建所需数据库**
   `create database `<数据库名>
