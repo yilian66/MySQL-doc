@@ -8,4 +8,8 @@
  **安装MySQL**  
   `sudo apt-get update` 更新源  
   `sudo apt-get install mysql-client` mysql-server 安装  
-  `sudo /etc/init.d/mysqld start` 启动mysql服务
+  `sudo /etc/init.d/mysqld start` 启动mysql服务  
+  **Apache安装**
+  `sudo apt-get update`
+  `sudo apt-get install tasksel`
+  `sudo tasksel`
