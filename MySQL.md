@@ -6,6 +6,6 @@
   MySQL 由于其体积小、速度快、总体拥有成本低，尤其是开放源码这一特点，一般中小型网站的开发都选择 MySQL 作为网站数据库。
 
 ### 安装MySQL  
-  sudo apt-get update 更新源  
-  sudo apt-get install mysql-client mysql-server 安装  
-  sudo /etc/init.d/mysqld start 启动mysql服务
+  `sudo apt-get update` 更新源  
+    sudo apt-get install mysql-client mysql-server 安装  
+  `sudo /etc/init.d/mysqld start` 启动mysql服务
