@@ -13,7 +13,7 @@
   `sudo apt-get update`  
   `sudo apt-get install tasksel`  
   `sudo tasksel`
-  **创建所需数据库**
+   **创建所需数据库**  
   `create database `<数据库名>
-  **使用数据库**  
+   **使用数据库**    
   `use` <数据库名> 
