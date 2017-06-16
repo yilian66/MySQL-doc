@@ -1,9 +1,9 @@
 # 技术文档
-* [2017年6月16日](MySQL.md)
+* [MySQL](MySQL.md)
 
 # 课程设计
 
-* [学生管理系统](Design/S-T.md)
+* [学生管理系统概念设计](Design/Stu.md)
 
 # 每天计划
 
