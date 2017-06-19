@@ -5,6 +5,7 @@
 - 它快速、可靠并且可通过简单的API扩充，将Perl/Python等解释器编译到服务器中。
 
 安装
+
 sudo apt-get update 
 
 sudo apt-get install tasksel  
