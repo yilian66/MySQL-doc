@@ -1,5 +1,8 @@
 # 技术文档
 * [MySQL](MySQL.md)
+* [github](github.md)
+* [CGI](CGL.md)
+* [Linux](Linux.md)
 
 # 课程设计
 
