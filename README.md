@@ -4,6 +4,7 @@
 * [CGI](CGL.md)
 * [Linux](Linux.md)
 * [Apache](Apache.md)
+* [Atom](Atom.md)
 
 # 课程设计
 
