@@ -1,10 +1,10 @@
 # 技术文档
-* [MySQL](MySQL.md)
-* [github](github.md)
-* [CGI](CGL.md)
-* [Linux](Linux.md)
-* [Apache](Apache.md)
-* [Atom](Atom.md)
+* [MySQL](tech/MySQL.md)
+* [github](tech/github.md)
+* [CGI](tech/CGL.md)
+* [Linux](tech/Linux.md)
+* [Apache](tech/Apache.md)
+* [Atom](tech/Atom.md)
 
 # 课程设计
 
